@@ -42,8 +42,8 @@ while
 }
 int main()
 {
-while(double a =0.0,b=1.0,c)
-{
+double a =0.0,b=1.0,c;
+
 
 double tol ;
 cout<<"the tolarence is = "<<endl;
@@ -53,5 +53,5 @@ cout<<" maximaum number of iterations = "<<endl;
 cin>>N; 
 int i = 0;
 bisection(a,b, tol)
-}
+return 0;
 }
